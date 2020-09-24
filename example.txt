@@ -1,1 +1,2 @@
 text of 1st sentence
+text of 2nd sentence
